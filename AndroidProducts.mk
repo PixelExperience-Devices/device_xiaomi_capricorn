@@ -14,9 +14,9 @@
 # limitations under the License.
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/lineage_capricorn.mk
+    $(LOCAL_DIR)/aosp_capricorn.mk
 
 COMMON_LUNCH_CHOICES := \
-    lineage_capricorn-user \
-    lineage_capricorn-userdebug \
-    lineage_capricorn-eng
+    aosp_capricorn-user \
+    aosp_capricorn-userdebug \
+    aosp_capricorn-eng
